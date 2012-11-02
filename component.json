@@ -1,0 +1,19 @@
+{
+    "name":"bootstrap-datepicker",
+    "version":"1.0",
+    "description":"Datepicker for Bootstrap",
+    "homepage":"http://www.eyecon.ro/bootstrap-datepicker/",
+    "keywords":[
+        "datepicker", "bootstrap", "twitter"
+    ],
+    "dependencies":{
+        "component/jquery":"*",
+        "btknorr/bootstrap":"*"
+    },
+    "scripts":[
+        "index.js"
+    ],
+    "styles":[
+        "datepicker.css"
+    ]
+}
